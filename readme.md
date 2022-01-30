@@ -37,6 +37,12 @@ Music Video 4 [Infinity]
 [![Infinity](https://img.youtube.com/vi/hRjEuC4ibVk/0.jpg)](https://www.youtube.com/watch?v=hRjEuC4ibVk)
 
 
+
+Warlock Logo
+
+<img src=Resources/warlock%20logo.png>
+
+
 Social Media Website
 
 <img src=Resources/Social%20Media%20website/1.%20Signin.png>
