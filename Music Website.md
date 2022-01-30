@@ -1,1 +1,1 @@
-<img src=Music%20Website.png>
+<img src=Resources/Music%20Website.png>
