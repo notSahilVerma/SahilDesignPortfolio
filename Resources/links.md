@@ -1,6 +1,6 @@
 Figma Links
 
-    ID Card:    https://bit.ly/idcardfigma
+    ID Card:    ![https://bit.ly/idcardfigma](https://bit.ly/idcardfigma)
 
     OSS Site:   https://bit.ly/osssite
 
