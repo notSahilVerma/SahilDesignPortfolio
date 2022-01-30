@@ -1,0 +1,1 @@
+<img src=Resources/HEMAVITI%20logo.png>
