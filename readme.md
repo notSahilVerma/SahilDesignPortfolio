@@ -19,7 +19,7 @@ Music Website
 
 Music Video 1 [Smiling Lights]
 
-![Smiling Lights(https://img.youtube.com/vi/sQPwh1AlkDs/0.jpg)](https://www.youtube.com/watch?v=sQPwh1AlkDs)
+[![Smiling Lights](https://img.youtube.com/vi/sQPwh1AlkDs/0.jpg)](https://www.youtube.com/watch?v=sQPwh1AlkDs)
 
 
 HEMAVITI logo
