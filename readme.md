@@ -22,11 +22,6 @@ HEMAVITI logo
 <img src=Resources/HEMAVITI%20logo.png>
 
 
-Photoframe
-
-<img src=Resources/photoframe.png>
-
-
 Social Media Website
 
 <img src=Resources/Social%20Media%20website/1.%20Signin.png>
