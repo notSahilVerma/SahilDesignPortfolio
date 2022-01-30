@@ -17,14 +17,24 @@ Music Website
 <img src=Resources/Music%20Website.png>
 
 
+HEMAVITI logo
+
+<img src=Resources/HEMAVITI%20logo.png>
+
+
 Music Video 1 [Smiling Lights]
 
 [![Smiling Lights](https://img.youtube.com/vi/sQPwh1AlkDs/0.jpg)](https://www.youtube.com/watch?v=sQPwh1AlkDs)
 
 
-HEMAVITI logo
+Music Video 2 [Astronomia]
 
-<img src=Resources/HEMAVITI%20logo.png>
+[![Astronomia](https://img.youtube.com/vi/qYgrZmWNVm8/0.jpg)](https://www.youtube.com/watch?v=qYgrZmWNVm8)
+
+
+Music Video 4 [Infinity]
+
+[![Infinity](https://img.youtube.com/vi/hRjEuC4ibVk/0.jpg)](https://www.youtube.com/watch?v=hRjEuC4ibVk)
 
 
 Social Media Website
